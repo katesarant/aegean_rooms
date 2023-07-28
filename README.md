@@ -44,7 +44,7 @@ Users should be able to:
     **** For styling ****
 
 - CSS custom properties
-- Responsive desigh 
+- Responsive design 
 - Bootstrap 5
 - Google fonts
 - Animations (Animate.css)
