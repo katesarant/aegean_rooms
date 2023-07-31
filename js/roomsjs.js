@@ -23,6 +23,7 @@ images.forEach(item =>{
         img.style.borderRadius = "25px";
         img.classList.add('animate__animated','animate__zoomIn');
         img.style.cursor='pointer';
+        img.style.objectFit='cover';
   
 
        
