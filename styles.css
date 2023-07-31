@@ -305,6 +305,7 @@ ul.navList li{
     position: relative;
     box-sizing: border-box;
     border: solid 1px var(--lightBlue);
+    object-fit:cover;
   }
 #user{
     position: fixed;
@@ -395,7 +396,7 @@ ul.navList li{
     padding: 12px;
 }
 .m-image{
-    
+    cursor:pointer;
     width: 200px;
     height: 200px;
     margin: 3%;
