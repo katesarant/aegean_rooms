@@ -51,7 +51,7 @@ Users should be able to:
 
 ## Sql-Datadase
 - Name: testLogin
-   - bookings (make a booking)
+   - bookings (booking system table)
    - comments (users can add  commenets in every room)
    - messages (sent a email to database)
    - users (users accounts and personal info)
